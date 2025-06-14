@@ -1,0 +1,1 @@
+This repo includes code and intermediate data for reproducing results and figures in the manuscript titled _Beyond the Mean: Cold and Warm Tail Temperature Trends Reveal Asymmetric Controls on Snowpack Changes in the Northern Hemisphere_
